@@ -3,6 +3,14 @@
 	height:50%;
 }
 
+h2,h6,p{
+	text-align:center;
+}
+
+.card{
+	border-radius:20px;
+}
+
 .lightbox {
   transition: 0.3s;
 }
